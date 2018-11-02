@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+    
+    <title>test</title>
+    </head>
+    
+    <body>
+       
+        <h1>HELLOWORLD</h1>
+        <h2>Sevi Suonenlahti in prgramming in the life sciences</h2>
+        
+    </body>
+    
+    <p>idk what this thing is tho, lets see what happens</p>
+            
+    <h3>just another header test!@#1234</h3>
+    
+    <samp>
+    
+    I wonder how this looks. Just when tyou thought it was alright, it may be alright. I spend nights like a light a deer in the headlights. Only come bla bal ton of money ton of respect the flow so marvelous so harmless. Every single dream is lucid. I may become something way beyond a human being. Its the holy water til im at my only daughter
+        
+    </samp>
+    
+    <p id="test"></p>
+    
+    
+    <script>
+        document.getElementById("test").innerHTML = "java scrpit is pretty cool";
+    </script> 
+    
+    <h3>one more</h3>
+    
+    <p> Lets see another test </p>
+    
+    <button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Click me to display Date and Time.</button>
+
+
+   <p id="demo"></p>
+    
+    
+    <button type="button" onclick="alert('Thats pretty cool')">Click Me to see some cool stuff</button>
+  
+</html>
